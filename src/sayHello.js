@@ -1,4 +1,4 @@
-function sayHello(params) {
+export function sayHello(params) {
   return "Hello Terminal";
 }
 
